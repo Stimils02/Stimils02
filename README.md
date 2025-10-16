@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sujal Timilsina
 
-**Software Engineer** | **AI/ML Enthusiast** | **Security Researcher** | **Startup Builder**
+**Software Engineer** | **AI/ML Researcher** | **Security Enthusiast** | **Startup Builder**
 
 🎓 MS in Computer Science @ UMass Amherst | BS from Purdue University  
 🔍 Currently seeking **Full-Time Software Engineering opportunities** (2026)  
@@ -23,6 +23,8 @@ I'm actively seeking **full-time Software Engineering roles** starting in 2026, 
 - 🤖 **AI/ML Engineering** positions
 - 💻 **Full-Stack Development** with modern tech stacks
 - 🚀 **Startup environments** & early-stage companies
+
+Feel free to reach out if you'd like to collaborate or discuss opportunities!
 
 ---
 
@@ -96,11 +98,6 @@ I'm actively seeking **full-time Software Engineering roles** starting in 2026, 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stimils02&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
----
-
-Feel free to reach out if you'd like to collaborate or discuss opportunities!
-
 ---
 
 <div align="center">
