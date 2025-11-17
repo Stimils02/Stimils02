@@ -30,8 +30,8 @@ Feel free to reach out if you'd like to collaborate or discuss opportunities!
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujal-timilsina) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-timilsina/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://stimils02.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Stimilsina2034@gmail.com)
 
 ---
@@ -91,11 +91,11 @@ Feel free to reach out if you'd like to collaborate or discuss opportunities!
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=stimils02&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=stimils02&theme=tokyonight&hide_border=false&include_all_commits=true&cache_seconds=1800)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stimils02&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stimils02&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stimils02&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact&cache_seconds=1800)
 
 </div>
 ---
